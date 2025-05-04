@@ -1,9 +1,12 @@
+import os
+import dotenv
 import streamlit as st
 import speech_recognition as sr
 import google.generativeai as genai
+dotenv.load_dotenv()
 
 # Configuration and setup
-genai.configure(api_key="AIzaSyB0cew0KPgSJKiUWKVrRNjG24mQ4xV6ang")  # Replace with your actual Gemini API key
+genai.configure(api_key=os.getenv("GENAI_KEY"))  # Replace with your actual Gemini API key
 model = genai.GenerativeModel("gemini-1.5-pro-001")
 
 # Language support dictionary

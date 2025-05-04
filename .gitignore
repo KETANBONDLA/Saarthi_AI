@@ -1,5 +1,6 @@
 botenv
 __pycache__*
+.env
 
 disease_detection/rebuild_model.py
 disease_detection/rebuilt_model.h5
