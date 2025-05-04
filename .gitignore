@@ -1,0 +1,16 @@
+botenv
+__pycache__*
+
+disease_detection/rebuild_model.py
+disease_detection/rebuilt_model.h5
+disease_detection/data/*
+disease_detection/training_hist.json
+disease_detection/trained_model.keras
+
+yield_prediction/data
+yield_prediction/dtrt.pkl
+yield_prediction/preprocessor.pkl
+
+Saarthi_Logo.jpg
+SAARTHI.pdf
+
