@@ -39,7 +39,7 @@ The **Saarthi-AI Chatbot** is a multilingual voice assistant designed to answer 
 
 ---
 
-## 🦠 Disease Detection Module *(Planned)*
+## 🦠 Disease Detection Module 
 
 The **Disease Detection** submodule aims to integrate computer vision and deep learning to identify common crop diseases from images captured via mobile phones.
 
@@ -48,7 +48,7 @@ The **Disease Detection** submodule aims to integrate computer vision and deep l
 - Suggest organic and chemical treatment methods
 - Enable photo-based detection via mobile
 
-### 🧰 Planned Technologies
+### 🧰 Technologies
 - OpenCV for image preprocessing
 - TensorFlow or PyTorch for deep learning models
 - Streamlit or Flask for deployment
@@ -56,28 +56,27 @@ The **Disease Detection** submodule aims to integrate computer vision and deep l
 
 ---
 
-## 📈 Yield Prediction Module *(Planned)*
+## 📈 Yield Prediction Module
 
-The **Yield Prediction** module will use historical and real-time data (soil, rainfall, seed type) to forecast crop yields.
+The **Yield Prediction** module uses historical and real-time data (soil, rainfall, seed type) to forecast crop yields.
 
 ### 🎯 Goals
 - Predict expected output per hectare
 - Provide suggestions on seed selection and irrigation schedules
 - Assist in financial planning for small-scale farmers
 
-### 🧰 Planned Technologies
+### 🧰 Technologies
 - Random Forest or XGBoost for prediction models
 - Scikit-learn for feature engineering
-- REST APIs for integration with the chatbot
-- Matplotlib and Plotly for data visualization
+- Matplotlib for data visualization
 
 ---
 
 ## 🛠️ Tech Stack Summary
 
 - **Chatbot**: Streamlit, SpeechRecognition, Google Gemini 1.5 Pro, Python
-- **Disease Detection** *(Planned)*: OpenCV, TensorFlow/PyTorch, Streamlit/Flask
-- **Yield Prediction** *(Planned)*: Scikit-learn, XGBoost, REST APIs, Plotly
+- **Disease Detection**: OpenCV, TensorFlow, Streamlit
+- **Yield Prediction**: Scikit-learn, XGBoost
 
 ---
 
