@@ -51,9 +51,9 @@ The **Disease Detection** submodule aims to integrate computer vision and deep l
 
 ### 🧰 Technologies
 - OpenCV for image preprocessing
-- TensorFlow or PyTorch for deep learning models
-- Streamlit or Flask for deployment
-- PlantVillage or custom datasets for training
+- TensorFlow for deep learning models
+- Streamlit for deployment
+- PlantVillage datasets for training
 
 ---
 
