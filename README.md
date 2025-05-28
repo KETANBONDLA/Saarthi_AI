@@ -8,6 +8,7 @@
 - [🚜 Chatbot Module](#-chatbot-module)
 - [🦠 Disease Detection Module](#-disease-detection-module)
 - [📈 Yield Prediction Module](#-yield-prediction-module)
+- [🗃️ Datasets Used](#-datasets-used)
 - [🛠️ Tech Stack](#-tech-stack)
 - [📌 Future Scope](#-future-scope)
 - [📄 License](#-license)
@@ -69,6 +70,18 @@ The **Yield Prediction** module uses historical and real-time data (soil, rainfa
 - Random Forest or XGBoost for prediction models
 - Scikit-learn for feature engineering
 - Matplotlib for data visualization
+
+---
+
+## 🗃️ Datasets Used
+
+### 🌿 Disease Detection
+- **[New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)**  
+  A diverse dataset containing labeled images of healthy and diseased plant leaves across various crop types.
+
+### 🌾 Yield Prediction
+- **[Crop Yield Prediction Dataset](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset)**  
+  Includes historical data on temperature, rainfall, and production for major crops across Indian states.
 
 ---
 
