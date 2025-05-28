@@ -9,9 +9,7 @@
 - [🦠 Disease Detection Module](#-disease-detection-module)
 - [📈 Yield Prediction Module](#-yield-prediction-module)
 - [🗃️ Datasets Used](#-datasets-used)
-- [🛠️ Tech Stack](#-tech-stack)
 - [📌 Future Scope](#-future-scope)
-- [📄 License](#-license)
 
 ---
 
@@ -67,7 +65,7 @@ The **Yield Prediction** module uses historical and real-time data (soil, rainfa
 - Assist in financial planning for small-scale farmers
 
 ### 🧰 Technologies
-- Random Forest or XGBoost for prediction models
+- Random Forest for prediction models
 - Scikit-learn for feature engineering
 - Matplotlib for data visualization
 
@@ -85,14 +83,6 @@ The **Yield Prediction** module uses historical and real-time data (soil, rainfa
 
 ---
 
-## 🛠️ Tech Stack Summary
-
-- **Chatbot**: Streamlit, SpeechRecognition, Google Gemini 1.5 Pro, Python
-- **Disease Detection**: OpenCV, TensorFlow, Streamlit
-- **Yield Prediction**: Scikit-learn, XGBoost
-
----
-
 ## 📌 Future Scope
 
 - Offline functionality for rural deployment
@@ -102,18 +92,11 @@ The **Yield Prediction** module uses historical and real-time data (soil, rainfa
 - Integration with government schemes and market linkages
 
 ---
+## 🙌 Contributors
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 🙌 Authors
-
-- **Ketan Bondla** (2022-B-17122003)
-- **Rudhi Pareek** (2022-B-16012004B)
-- **Vaikhari Kanetkar** (2022-B-15092004B)
+- **Ketan Bondla**
+- **Rudhi Pareek**
+- **Vaikhari Kanetkar** 
 
 ---
 
